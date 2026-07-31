@@ -1,11 +1,11 @@
 Enterprise Network Infrastructure Design using Cisco Packet Tracer
-📌 Project Overview
+ Project Overview
 
 This project is a Cisco Packet Tracer Enterprise Network Simulation designed to demonstrate how a medium-to-large organization can build a secure, scalable, reliable, and fault-tolerant network.
 
 The network follows the Three-Tier Architecture consisting of the Core Layer, Distribution Layer, and Access Layer, ensuring efficient communication between multiple departments while providing centralized network services and Internet connectivity.
 
-🎯 Objectives
+ Objectives
 Design a scalable enterprise network.
 Implement VLAN-based network segmentation.
 Enable Inter-VLAN communication.
@@ -13,7 +13,9 @@ Configure centralized DHCP, DNS, and Email services.
 Provide wired and wireless connectivity.
 Implement redundant links for high availability.
 Simulate real-world enterprise networking concepts.
-🏢 Network Architecture
+
+
+ Network Architecture
                     Internet
                   ISP-1     ISP-2
                      |         |
@@ -28,7 +30,9 @@ Simulate real-world enterprise networking concepts.
     Sales      HR    Finance   Admin    ICT    Server
       |        |        |        |        |        |
  End Devices End Devices End Devices End Devices End Devices Servers
-🏗 Three-Tier Architecture
+
+ 
+ Three-Tier Architecture
 1. Core Layer
 Devices
 2 ISP Routers
@@ -95,7 +99,9 @@ Printers
 Wireless Access Points
 Laptops
 Tablets
-🖥 Department Structure
+
+ 
+ Department Structure
 
 Each department contains:
 
@@ -111,7 +117,10 @@ Easy management
 Department isolation
 Secure communication
 Wireless mobility
-🌐 VLAN Configuration
+
+ 
+ 
+ VLAN Configuration
 
 Each department is assigned its own VLAN.
 
@@ -128,7 +137,10 @@ Reduced Broadcast Traffic
 Better Network Performance
 Simplified Management
 Department Isolation
-🔄 Inter-VLAN Routing
+
+ 
+ 
+ Inter-VLAN Routing
 
 Inter-VLAN Routing is performed by the Cisco 3560 Multilayer Switches.
 
@@ -148,7 +160,9 @@ Finance PC
 
 This allows different departments to communicate securely when required.
 
-🌍 Network Services
+
+ 
+ Network Services
 DHCP Server
 
 Automatically assigns:
@@ -186,7 +200,9 @@ sales@company.com
 ↓
 
 admin@company.com
-📶 Wireless Network
+
+ 
+Wireless Network
 
 Each department includes a Wireless Access Point.
 
@@ -196,7 +212,9 @@ Connect laptops wirelessly
 Connect tablets wirelessly
 Increase employee mobility
 Maintain users within their department VLAN
-🔁 Redundancy
+
+ 
+ Redundancy
 
 This project implements redundancy at multiple levels.
 
@@ -281,7 +299,10 @@ Email Server
 Wireless Access Points
 Static Routing
 Redundant Links
-🚀 Features
+
+ 
+ 
+Features
 Enterprise Three-Tier Architecture
 Department-wise VLAN Segmentation
 Inter-VLAN Communication
@@ -292,7 +313,9 @@ Fault-Tolerant Infrastructure
 Scalable Architecture
 High-Speed Internal Routing
 Secure Department Isolation
-🎓 Learning Outcomes
+
+
+Learning Outcomes
 
 Through this project, the following networking concepts were implemented and understood:
 
@@ -310,7 +333,18 @@ Wireless Networking
 Redundancy and High Availability
 Three-Tier Network Architecture
 Fault Tolerance in Enterprise Networks
-📌 Conclusion
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Conclusion
 
 This project demonstrates the design and implementation of a modern enterprise network using Cisco Packet Tracer. By combining Three-Tier Architecture, VLAN segmentation, Inter-VLAN Routing, centralized network services, wireless connectivity, and redundant infrastructure, the network achieves improved security, scalability, reliability, and performance.
 
