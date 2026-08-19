@@ -336,12 +336,7 @@ Fault Tolerance in Enterprise Networks
 
  
  
- 
- 
- 
- 
- 
- 
+
  
  
  Conclusion
